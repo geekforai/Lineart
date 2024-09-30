@@ -1,0 +1,13 @@
+accelerate
+controlnet_aux
+diffusers
+einops
+gradio
+huggingface-hub
+mediapipe
+opencv-python-headless
+safetensors
+torch
+torchvision
+transformers
+xformers
